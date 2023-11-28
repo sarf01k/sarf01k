@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **mobile📱** and **backend⚙️ development**
 
-- 🌱 I’m currently learning **Flutter and Node JS**
+- 🌱 I’m currently learning **Flutter** and **Node JS**
 
 - 👯 I’m looking to collaborate on **mobile dev projects**
 
