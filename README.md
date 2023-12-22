@@ -1,6 +1,6 @@
 - 👋 Hi, I'm **@sarf01k**
 
-- 👀 I’m interested in **backend⚙️ development** and **mobile📱**
+- 👀 I’m interested in **backend⚙️** and **mobile📱  development**
 
 - 🌱 I’m currently learning **Node JS** and **Flutter**
 
