@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **web🌐** and **mobile📱 development**
 
-- 🌱 I’m currently learning **HTML** and **CSS**
+- 🌱 I’m currently learning **HTML**, **CSS** and **Javascript**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
